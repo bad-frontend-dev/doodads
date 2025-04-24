@@ -1,0 +1,7 @@
+#output {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 200px;
+    height: 400px;
+}
